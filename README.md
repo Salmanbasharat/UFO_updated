@@ -19,7 +19,7 @@ There are different parts of this web page including the table where the data of
 
 5- UFO Sighting Table- center to bottom of the page
 
-The items 2 and 3 are static meaning they dont change however items 1,4 and 5 are dynamic which means they can be changed with the user control. Here is the explanation of it.
+The items 2 (Heading) and 3 (Information) are static meaning they dont change however items 1,4 and 5 are dynamic which means they can be changed with the user control. Here is the explanation of it.
 
 ## *Navigation Bar (UFO Sightings)*:
 
