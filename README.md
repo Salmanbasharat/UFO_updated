@@ -1,6 +1,8 @@
 ## **PROJECT OVERVIEW**
 This project is about organizing the UFO sighting data and dispay it on a web page in a table form. The data is stored in JavaScript array and HTML, JS and Bootsrap are the main tools used in the project.
 
+I have customized the webpage using Bootstrap, and equipped the table with several fully functional filters that would allow users to interact with the visualizations.
+
 The table has been made dynamic by allowing the data to be filtered on different parameters like Date, city, state, country and shape of the UFO sighting.
 
 ## **RESULTS**
