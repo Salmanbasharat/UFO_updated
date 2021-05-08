@@ -58,7 +58,7 @@ Another quality of the web page is the responsiveness to diffrent screen sizes l
 Here the data is displayed for all the records but would show only the relevant information if the filtering options are exercised. 
 
 ## **SUMMARY**
-Though the web page is dynamic and aesthatically pleasing but still there is a room for improvements. One major drawback is that the web page doesnt show who is the owner of the site or in case of any feedback from any user, who should be contacted and at which address. It doesn't show, who is uploading the content and why someone believe on this information?
+Though the web page is dynamic and aesthatically pleasing but like any development project still there is a room for improvements. One major drawback is that the web page doesnt show who is the owner of the site or in case of any feedback from any user, who should be contacted and at which address. It doesn't show, who is uploading the content and why someone believe on this information?
 
 From design perspective, one drawback is that it should show some visuals of UFO's to make it more relevant to the content.
 
